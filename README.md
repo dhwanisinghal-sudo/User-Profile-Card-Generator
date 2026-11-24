@@ -13,5 +13,3 @@ Open http://127.0.0.1:5000
 
 ## API
 `POST /api/profile` accepts JSON with `name`, `bio`, and `image_url`. It validates required fields, text lengths, and the image URL, then returns the profile data as JSON.
-
-Do not upload the `.venv` folder to GitHub.
